@@ -35,3 +35,10 @@ Once you have installed these dependencies, navigate to the `code` folder and op
 The `driver.ipynb` file contains detailed explanations of how to use the implemented classes and functions. For further details on the implementation of the multigrid Vcycle algorithm, refer to the comments in the `Multigrid_heat.py` and `Multigrid_poison.py` files.
 
 Note: This project assumes some basic knowledge of Python, NumPy, Matplotlib, and Jupyter Notebook.
+
+References
+[1] Briggs, W. L., Henson, V. E., & McCormick, S. F. (2000). A multigrid tutorial (2nd ed.). SIAM.
+
+[2] Zingale, M. (2017). Computational hydrodynamics for astrophysics. Retrieved from https://zingale.github.io/hydro_tutorial/
+
+[3] Malipeddi, A. R. (2017). Geometric Multigrid Implementation. Retrieved from https://github.com/AbhilashReddyM.
