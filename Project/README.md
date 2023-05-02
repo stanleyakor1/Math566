@@ -37,6 +37,7 @@ The `driver.ipynb` file contains detailed explanations of how to use the impleme
 Note: This project assumes some basic knowledge of Python, NumPy, Matplotlib, and Jupyter Notebook.
 
 References
+
 [1] Briggs, W. L., Henson, V. E., & McCormick, S. F. (2000). A multigrid tutorial (2nd ed.). SIAM.
 
 [2] Zingale, M. (2017). Computational hydrodynamics for astrophysics. Retrieved from https://zingale.github.io/hydro_tutorial/
