@@ -42,4 +42,4 @@ References
 
 [2] Zingale, M. (2017). Computational hydrodynamics for astrophysics. Retrieved from https://zingale.github.io/hydro_tutorial/
 
-[3] Malipeddi, A. R. (2017). Geometric Multigrid Implementation. Retrieved from https://github.com/AbhilashReddyM.
+[3] Malipeddi, A. R. (2017). Geometric Multigrid Implementation.
